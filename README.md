@@ -39,4 +39,6 @@ If there are any copyright concerns, I will update or remove the dataset immedia
 - How do sales trend over time?\
   <img width="218" height="494" alt="image" src="https://github.com/user-attachments/assets/55f778c3-8545-4519-b7ed-2c221eef2bb6" />
 
+## Notes
+This project exists to show learning progress. Screenshots and deeper analytics will be added as I continue building the project.
 
